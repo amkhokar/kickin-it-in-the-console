@@ -4,4 +4,4 @@ This is my personal blog meant to share my learning as I become a better web dev
 
 You can find the live site at: 
 
-https://amkhokar.KiitC.surge.sh
+https://amkhokar-kiitc.surge.sh/
