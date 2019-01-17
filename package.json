@@ -48,7 +48,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/kickin-it-in-the-console.git"
+    "url": "https://github.com/amkhokar/kickin-it-in-the-console.git"
   },
   "scripts": {
     "dev": "gatsby develop",

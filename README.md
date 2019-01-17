@@ -1,11 +1,3 @@
-# kickin-it-in-the-console
+# Kickin' it in the Console
 
-Gatsby starter for creating a blog
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-`gatsby new gatsby-blog https://github.com/gatsbyjs/kickin-it-in-the-console`
-
-## Running in development
-
-`gatsby develop`
+This is my personal blog meant to share my learning as I become a better web developer. I love to share and discuss ideas about web development, and this project was a way for me to do that while also learning new tools and design patterns.
